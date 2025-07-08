@@ -1,52 +1,13 @@
 @font-face {
-    font-family: 'Neue Montreal';
-    src: url('NeueMontreal-Medium.eot');
-    src: url('NeueMontreal-Medium.eot?#iefix') format('embedded-opentype'),
-        url('NeueMontreal-Medium.woff2') format('woff2'),
-        url('NeueMontreal-Medium.woff') format('woff'),
-        url('NeueMontreal-Medium.ttf') format('truetype'),
-        url('NeueMontreal-Medium.svg#NeueMontreal-Medium') format('svg');
-    font-weight: 500;
+    font-family: 'Shapiro 45 Welter Text';
+    src: url('Shapiro-45WelterText.eot');
+    src: url('Shapiro-45WelterText.eot?#iefix') format('embedded-opentype'),
+        url('Shapiro-45WelterText.woff2') format('woff2'),
+        url('Shapiro-45WelterText.woff') format('woff'),
+        url('Shapiro-45WelterText.ttf') format('truetype'),
+        url('Shapiro-45WelterText.svg#Shapiro-45WelterText') format('svg');
+    font-weight: 300;
     font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Neue Montreal';
-    src: url('NeueMontreal-MediumItalic.eot');
-    src: url('NeueMontreal-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('NeueMontreal-MediumItalic.woff2') format('woff2'),
-        url('NeueMontreal-MediumItalic.woff') format('woff'),
-        url('NeueMontreal-MediumItalic.ttf') format('truetype'),
-        url('NeueMontreal-MediumItalic.svg#NeueMontreal-MediumItalic') format('svg');
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Neue Montreal';
-    src: url('NeueMontreal-Medium_1.eot');
-    src: url('NeueMontreal-Medium_1.eot?#iefix') format('embedded-opentype'),
-        url('NeueMontreal-Medium_1.woff2') format('woff2'),
-        url('NeueMontreal-Medium_1.woff') format('woff'),
-        url('NeueMontreal-Medium_1.ttf') format('truetype'),
-        url('NeueMontreal-Medium_1.svg#NeueMontreal-Medium') format('svg');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Neue Montreal';
-    src: url('NeueMontreal-MediumItalic_1.eot');
-    src: url('NeueMontreal-MediumItalic_1.eot?#iefix') format('embedded-opentype'),
-        url('NeueMontreal-MediumItalic_1.woff2') format('woff2'),
-        url('NeueMontreal-MediumItalic_1.woff') format('woff'),
-        url('NeueMontreal-MediumItalic_1.ttf') format('truetype'),
-        url('NeueMontreal-MediumItalic_1.svg#NeueMontreal-MediumItalic') format('svg');
-    font-weight: 500;
-    font-style: italic;
     font-display: swap;
 }
 
